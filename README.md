@@ -1,4 +1,4 @@
-# Ireland IDBMD Image Indexer
+# Image 
 
 A Windows Forms (.NET Framework) desktop application designed for secure image viewing, navigation, zooming, rotation, and structured metadata entry.  
 This tool is primarily used for indexing historical or archival image records with XML-based storage.
